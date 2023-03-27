@@ -3,4 +3,8 @@
 <div align="center"><img src="https://www.github.com/tylermneher.png"></div>
 
 
-skn-un.tylermneher.me
+
+[![Deploy Static Page](https://github.com/tylermneher/skn-un.tylermneher.me/actions/workflows/static.yml/badge.svg)](https://github.com/tylermneher/skn-un.tylermneher.me/actions/workflows/static.yml)
+
+<h2 align="center">skn-un.tylermneher.me</h2>
+
