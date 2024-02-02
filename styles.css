@@ -1,0 +1,70 @@
+* {
+	box-sizing: border-box;
+	font-family: monospace;
+}
+
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+	display: none;
+}
+
+
+body {
+	margin: 0;
+	font-family: monospace;
+}
+
+/* Style the top navigation bar */
+.topnav {
+	overflow: hidden;
+	background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+/* Style the content */
+.content {
+	background-color: #ddd;
+	padding: 10px;
+	text-align: center;
+	-webkit-text-size-adjust: auto;
+	-moz-text-size-adjust: auto;
+	-ms-text-size-adjust: auto;
+	text-size-adjust: auto;
+	/* Should be removed. Only for demonstration */
+}
+
+/* Style the footer */
+.footer {
+	background-color: #f1f1f1;
+	padding: 10px;
+	text-align: left;
+}
+
+img {
+	width: 80%;
+	height: auto;
+	padding: 5px;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
